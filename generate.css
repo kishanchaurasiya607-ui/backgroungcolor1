@@ -1,0 +1,28 @@
+
+
+
+.color-box{
+    height: 300px ;
+    width: 400px;
+    background-color: rgb(186, 60, 60);
+    margin: 0px auto;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+
+
+.page{
+    text-align: center;
+    margin: 0px auto;
+    h1{
+        font-size: 55px;
+        color: rgb(251, 7, 7);
+        text-shadow: black 2px 2px 2px;
+    }
+}
+
+button{
+    font-size: 32px;
+    padding: 10px 25px ;
+    box-shadow: black 3px 3px 5px;
+}
